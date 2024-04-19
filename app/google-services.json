@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "243801011280",
+    "firebase_url": "https://entregable-4-8ba3b-default-rtdb.firebaseio.com",
+    "project_id": "entregable-4-8ba3b",
+    "storage_bucket": "entregable-4-8ba3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243801011280:android:e9ca3b544430fd8e2d0d55",
+        "android_client_info": {
+          "package_name": "com.sam.entregable_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhA2cQUNbcnDG3WPG7N_hqMP5b3_Ei3GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
